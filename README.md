@@ -29,8 +29,9 @@ L'exécutable (`.apk`) vous permet de tester l'application sans utiliser d'outil
 ### Solution 2 : Construire via Android Studio
 1. Clonez ce dépôt sur votre machine : `git clone [URL_DU_REPO]`
 2. Ouvrez Android Studio, puis cliquez sur `Open` et sélectionnez le dossier racine du projet.
-3. Patientez pendant la synchronisation Gradle.
-4. Cliquez sur **Run** (Triangle vert) pour lancer APM sur l'émulateur ou le périphérique physique ciblé.
+3. 
+4. Patientez pendant la synchronisation Gradle.
+5. Cliquez sur **Run** (Triangle vert) pour lancer APM sur l'émulateur ou le périphérique physique ciblé.
 
 ## Contribution ou modifications
 L'équipe est libre d'étendre APM pour inclure de nouveaux modules (Journal d'humeur, carnets, etc).
