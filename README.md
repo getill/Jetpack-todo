@@ -14,6 +14,7 @@ L'application permet à ses utilisateurs de :
 
 * **Langage** : Kotlin
 * **UI Framework** : Android Jetpack Compose (Material 3)
+* 
 * **Architecture** : MVVM (Model-View-ViewModel) via StateFlows
 * **Stockage de données** : `SharedPreferences` + `Gson`
 
